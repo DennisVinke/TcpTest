@@ -1,0 +1,21 @@
+# www.mecabricks.com
+newmtl Decoration_44343d1
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/44343d1.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_44336d1
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/44336d1.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+
+

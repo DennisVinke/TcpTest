@@ -1,0 +1,287 @@
+# www.mecabricks.com
+newmtl Color_1
+Ka 1.0 1.0 1.0
+Kd 0.9568627450980393 0.9568627450980393 0.9568627450980393
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_21
+Ka 1.0 1.0 1.0
+Kd 0.8392156862745098 0 0.11764705882352941
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_23
+Ka 1.0 1.0 1.0
+Kd 0.14901960784313725 0.3254901960784314 0.6549019607843137
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_24
+Ka 1.0 1.0 1.0
+Kd 0.9725490196078431 0.7803921568627451 0.09411764705882353
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_26
+Ka 1.0 1.0 1.0
+Kd 0.06274509803921569 0.06274509803921569 0.06274509803921569
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_37
+Ka 1.0 1.0 1.0
+Kd 0.10588235294117647 0.596078431372549 0.13333333333333333
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_41
+Ka 1.0 1.0 1.0
+Kd 0.611764705882353 0 0.06274509803921569
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_42
+Ka 1.0 1.0 1.0
+Kd 0.40784313725490196 0.7372549019607844 0.7725490196078432
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_43
+Ka 1.0 1.0 1.0
+Kd 0 0.1607843137254902 0.4196078431372549
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_44
+Ka 1.0 1.0 1.0
+Kd 0.9686274509803922 0.9215686274509803 0.17647058823529413
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_111
+Ka 1.0 1.0 1.0
+Kd 0.39215686274509803 0.35294117647058826 0.2980392156862745
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_182
+Ka 1.0 1.0 1.0
+Kd 0.8980392156862745 0.4666666666666667 0.12156862745098039
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 0.7
+illum 2
+
+
+newmtl Color_194
+Ka 1.0 1.0 1.0
+Kd 0.6392156862745098 0.6352941176470588 0.6431372549019608
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_199
+Ka 1.0 1.0 1.0
+Kd 0.30196078431372547 0.3176470588235294 0.33725490196078434
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_1026
+Ka 1.0 1.0 1.0
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+
+
+newmtl Color_21_3660_bump
+Ka 1.0 1.0 1.0
+Kd 0.8392156862745098 0 0.11764705882352941
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1
+illum 2
+map_bump maps/bump/3660_bump.png
+
+
+newmtl Decoration_52031d24
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/52031d24.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/52031d24_bump.png
+
+
+newmtl Decoration_11477d63
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/11477d63.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/11477d63_bump.png
+
+
+newmtl Decoration_3069d169
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3069d169.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/3069d169_bump.png
+
+
+newmtl Decoration_92593d2
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/92593d2.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/92593d2_bump.png
+
+
+newmtl Decoration_11477d62
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/11477d62.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/11477d62_bump.png
+
+
+newmtl Decoration_94638d17
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/94638d17.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/94638d17_bump.png
+
+
+newmtl Decoration_15210d16
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/15210d16.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+map_bump -bm 0.6 maps/bump/15210d16_bump.png
+
+
+newmtl Decoration_3817d319
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3817d319.png
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+map_Ks maps/metalness/3817d319_metal.png
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_3816d319
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3816d319.png
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+map_Ks maps/metalness/3816d319_metal.png
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_3814d890
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3814d890.png
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+map_Ks maps/metalness/3814d890_metal.png
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_3626d126
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3626d126.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_3814d876
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3814d876.png
+Ka 1.0 1.0 1.0
+Ks 1.0 1.0 1.0
+map_Ks maps/metalness/3814d876_metal.png
+Ni 1.5
+d 1.0
+illum 2
+
+
+newmtl Decoration_3626dXXX
+Kd 1.0 1.0 1.0
+map_Kd maps/decoration/3626dXXX.png
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ni 1.5
+d 1.0
+illum 2
+
+
